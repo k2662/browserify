@@ -11,8 +11,6 @@ tag.
 
 [![build status](https://img.shields.io/travis/browserify/browserify/master.svg)](https://travis-ci.org/browserify/browserify)
 
-![browserify!](./assets/logo.png)
-
 # getting started
 
 If you're new to browserify, check out the
