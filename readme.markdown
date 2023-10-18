@@ -1,5 +1,5 @@
-# browserify
-
+# browserify-js
+a fork of https://github.com/browserify/browserify with punycode fixes
 `require('modules')` in the browser
 
 Use a [node](http://nodejs.org)-style `require()` to organize your browser code
